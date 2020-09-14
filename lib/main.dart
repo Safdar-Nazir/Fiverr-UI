@@ -116,7 +116,7 @@ class FiverrHome extends StatelessWidget {
                       style: TextStyle(color: Colors.white),
                     ),
                     Text(
-                      '1 Hour',
+                      '! hour',
                       style: TextStyle(color: Colors.green),
                     )
                   ],
