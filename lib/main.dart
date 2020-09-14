@@ -112,7 +112,7 @@ class FiverrHome extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: <Widget>[
                     Text(
-                      'Average Time',
+                      'Response Time',
                       style: TextStyle(color: Colors.white),
                     ),
                     Text(
